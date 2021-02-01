@@ -1,0 +1,8 @@
+(a) Trazene cene su: 1.20$, 1.25$, 1.50$ i 3.16$.
+Maksimalan broj poziva optimizacione funkcije je teoretski 711^4, medjutim program je napisan tako da poziva manji broj puta i ne pronalazi permutacije resenja. Objasnjeno je i u komentaru koda Zad1a.cpp
+
+(b) Maksimalan broj poziva optimizacione funkcije je teoretski 711^3, medjutim program je napisan tako da poziva manji broj puta. Objasnjeno je i u komentaru koda Zad1b.cpp
+Rezultat poredjenja brzine programa u odnosu na program iz (a) - program se izvrsio znatno brze.
+
+(c) Program pod b je brzi.
+

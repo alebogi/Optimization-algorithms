@@ -1,0 +1,11 @@
+Realno resenje:
+Optimalan raspored servera po ormarima:
+(1.207483923998146e-10, 9.99999999941411, 2.7630812256798864e-11, 1.3245581549566497e-10,  3.519135921258438e-11, 3.148599973005419, 8.63875793093648, 4.212642095310826,  1.7737174388625474e-11, 1.8514000268051034, 3.6770315419185846, 2.4715684310432073)
+Maksimalni ostvareni racunarski kapacitet sistema:  11915.526315316793 
+
+----------------
+
+Celobrojno resenje:
+Optimalan raspored servera po ormarima:
+(0.0, 10.0, 0.0, 0.0,  0.0, 2.0, 10.0, 4.0,  0.0, 3.0, 2.0, 3.0)
+Maksimalni ostvareni racunarski kapacitet sistema:  11895.0

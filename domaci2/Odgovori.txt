@@ -1,0 +1,5 @@
+(a)Najkraca putanja za obilazak prvih 8 rupa iznosi 81.492490 mm.
+Redosled obilaska rupa je: 8 - 7 - 3 - 2 - 1 - 5 - 6 - 4.
+
+(b) Najkraca putanja za obilazak prvih 12 rupa iznosi 130.163476 mm.
+Redosled obilaska rupa je: 4 - 6 - 9 - 10 - 11 - 8 - 7 - 5 - 1 - 2 - 3 - 12.

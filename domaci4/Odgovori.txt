@@ -1,0 +1,6 @@
+1) Python kod koji crta grafik - crtanjeGrafika.py
+2) Kod - trazenjeNula.py. Resenje:
+Red funkcije n=1, redni broj nule p=1:  4.493409457909365
+Red funkcije n=1, redni broj nule p=2:  7.725251836942334
+Red funkcije n=2, redni broj nule p=1:  5.763459196887197
+Red funkcije n=2, redni broj nule p=2:  9.095011330473426
